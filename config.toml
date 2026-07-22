@@ -1,4 +1,4 @@
-baseURL = "https://thanle04.github.io/workshop-website/"
+baseURL = "https://github.com/namnguyen1872004/reportaws.git"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
