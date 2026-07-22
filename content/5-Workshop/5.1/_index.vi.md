@@ -29,7 +29,7 @@ Luồng request và dữ liệu
 
 Sơ đồ kiến trúc
 
-![Hinh1](/workshop-website/images/5-Workshop/image1.png)
+![Hinh1](/workshop-website/images/5-Workshop/cnn.png)
 *Hình 1. Sơ đồ kiến trúc hiện tại của NightFury Express được giữ nguyên làm kiến trúc mục tiêu.*
 
 Cách đọc sơ đồ: Sơ đồ được giữ nguyên theo yêu cầu. Tuy nhiên, sự xuất hiện của CloudFront, WAF, Auto Scaling hoặc monitoring trong sơ đồ không đồng nghĩa các thành phần đó đã hoàn tất. Trạng thái thực tế phải được đối chiếu với bảng trạng thái và evidence trong từng section.
